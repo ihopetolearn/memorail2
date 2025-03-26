@@ -63,3 +63,4 @@ def update_charts(selected_category):
 
 if __name__ == '__main__':
     app.run(debug=True)
+# i added many many note foir you you need to fixt it right
